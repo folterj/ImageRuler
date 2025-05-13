@@ -7,3 +7,5 @@ Features:
 * Marking multiple data points
 * Output: Marked data points as CSV file (for Excel)
 * Variable zoom
+
+![imageruler](https://github.com/user-attachments/assets/25838089-3cb5-4be1-bbb8-6db532eb2532)
